@@ -33,12 +33,12 @@ Here are some ideas to get you started:
 
 ### Github Analytics
 <a href="https://github.com/Star-Meow">
-  <img src="https://github-readme-stats.vercel.app/api?username=TingSyuanWang&count_private=true&show_icons=true&include_all_commits=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Star-Meow&count_private=true&show_icons=true&include_all_commits=true" />
 </a>
 
 ### Most Used Languages
 <a href="https://github.com/Star-Meow">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TingSyuanWang&layout=compact&hide=HTML,CSS,Stylus,CoffeeScript,EJS&langs_count=10" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Star-Meow&layout=compact&hide=HTML,CSS,Stylus,CoffeeScript,EJS&langs_count=10" />
 </a
 ---
 -->
