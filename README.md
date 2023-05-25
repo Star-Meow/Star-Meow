@@ -1,6 +1,6 @@
 ### Hi there 👋
-  <a href="https://git.io/typing-svg"><
-    img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9D00F7&center=true&width=435&lines=Hey!I+am+CHUN-CHIEH.++%3AD;Nice+to+meet+you+traveler.+" alt="Typing SVG" />
+  <a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9D00F7&center=true&width=435&lines=Hey!I+am+CHUN-CHIEH.++%3AD;Nice+to+meet+you+traveler.+" alt="Typing SVG" />
   </a>
 
 
