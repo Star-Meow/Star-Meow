@@ -21,13 +21,13 @@ Here are some ideas to get you started:
 <table>
   <tbody>
      <tr>
-     <td><a href="https://github.com/Star-Meow"><img align="center" src="https://user-images.githubusercontent.com/8935531/161361217-c7dd130c-0eae-46b0-9652-42787925d8a0.gif" alt="icon | Github" width="50"/></a>
+     <td><a href="https://github.com/Star-Meow"><img align="center" src="https://user-images.githubusercontent.com/8935531/161361217-c7dd130c-0eae-46b0-9652-42787925d8a0.gif" alt="icon | Github" width="50%"/></a>
       </td>
 
-     <td><a href="https://www.instagram.com/zeng_starmeow/"><img align="center" src="https://user-images.githubusercontent.com/8935531/161361084-a010cae7-5b98-4d09-a189-03862dc6e86e.gif" alt="icon | Instagram" width="50"/></a></td>
+     <td><a href="https://www.instagram.com/zeng_starmeow/"><img align="center" src="https://user-images.githubusercontent.com/8935531/161361084-a010cae7-5b98-4d09-a189-03862dc6e86e.gif" alt="icon | Instagram" width="50%"/></a></td>
 
-     <td><a href=""><img align="center" src="https://user-images.githubusercontent.com/8935531/161361040-8733e89d-61cd-40c5-b5f1-b02c75896e99.gif" alt="icon | Twitter" width="50"/></a></td>
-     <td><a href="https://discord.com/users/396700511639699458/"><img align="center" src="https://media.tenor.com/5a7v-p3E5pkAAAAC/discord.gif" alt="icon | Discord" width="50"/></a></td>
+     <td><a href=""><img align="center" src="https://user-images.githubusercontent.com/8935531/161361040-8733e89d-61cd-40c5-b5f1-b02c75896e99.gif" alt="icon | Twitter" width="50%"/></a></td>
+     <td><a href="https://discord.com/users/396700511639699458/"><img align="center" src="https://media.tenor.com/5a7v-p3E5pkAAAAC/discord.gif" alt="icon | Discord" width="50%"/></a></td>
     </tr>
   </tbody>
 </table>
