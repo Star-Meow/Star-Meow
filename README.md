@@ -1,6 +1,6 @@
  <h1 align="center">
    <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9D00F7&center=true&width=435&lines=Hey!I+am+CHUN-CHIEH.++%F0%9F%98%83;Nice+to+meet+you+traveler.+" alt="Typing SVG" />
+      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9D00F7&center=true&width=435&lines=Hey!I+am+Star-Meow.++%F0%9F%98%83;Nice+to+meet+you+traveler.+" alt="Typing SVG" />
     </a>
 </h1>
 
@@ -31,5 +31,14 @@ Here are some ideas to get you started:
 
 <img align="right" alt="Visitor Counter" src="https://komarev.com/ghpvc/?username=TingSyuanWang&style=flat-square&&label=Profile+Views&color=50A1FF">
 
+### Github Analytics
+<a href="https://github.com/TingSyuanWang">
+  <img src="https://github-readme-stats.vercel.app/api?username=TingSyuanWang&count_private=true&show_icons=true&include_all_commits=true" />
+</a>
+
+### Most Used Languages
+<a href="https://github.com/TingSyuanWang">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TingSyuanWang&layout=compact&hide=HTML,CSS,Stylus,CoffeeScript,EJS&langs_count=10" />
+</a
 ---
 -->
