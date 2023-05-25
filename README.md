@@ -21,10 +21,10 @@ Here are some ideas to get you started:
 <table>
   <tbody>
     <tr>
-      <td><a href="https://github.com/Star-Meow"><img align="left" src="https://user-images.githubusercontent.com/8935531/161361217-c7dd130c-0eae-46b0-9652-42787925d8a0.gif" alt="icon | Github" width="100%" /></a></td>
-      <td><a href="https://www.instagram.com/zeng_starmeow/"><img align="left" src="https://user-images.githubusercontent.com/8935531/161361084-a010cae7-5b98-4d09-a189-03862dc6e86e.gif" alt="icon | Instagram" width="100%"/></a></td>
-      <td><a href=""><img align="left" src="https://user-images.githubusercontent.com/8935531/161361040-8733e89d-61cd-40c5-b5f1-b02c75896e99.gif" alt="icon | Twitter" width="100%"/></a></td>
-      <td><a href="https://discord.com/users/396700511639699458/"><img align="left" src="https://media.tenor.com/5a7v-p3E5pkAAAAC/discord.gif" alt="icon | Discord" width="50%"/></a></td>
+      <td><a href="https://github.com/Star-Meow"><img align="left" src="https://user-images.githubusercontent.com/8935531/161361217-c7dd130c-0eae-46b0-9652-42787925d8a0.gif" alt="icon | Github" width="50%" /></a></td>
+      <td><a href="https://www.instagram.com/zeng_starmeow/"><img align="left" src="https://user-images.githubusercontent.com/8935531/161361084-a010cae7-5b98-4d09-a189-03862dc6e86e.gif" alt="icon | Instagram" width="50%"/></a></td>
+      <td><a href=""><img align="left" src="https://user-images.githubusercontent.com/8935531/161361040-8733e89d-61cd-40c5-b5f1-b02c75896e99.gif" alt="icon | Twitter" width="50%"/></a></td>
+      <td><a href="https://discord.com/users/396700511639699458/"><img align="left" src="https://media.tenor.com/5a7v-p3E5pkAAAAC/discord.gif" alt="icon | Discord" width="25%"/></a></td>
     </tr>
   </tbody>
 </table>
@@ -32,12 +32,12 @@ Here are some ideas to get you started:
 <img align="right" alt="Visitor Counter" src="https://komarev.com/ghpvc/?username=TingSyuanWang&style=flat-square&&label=Profile+Views&color=50A1FF">
 
 ### Github Analytics
-<a href="https://github.com/TingSyuanWang">
+<a href="https://github.com/Star-Meow">
   <img src="https://github-readme-stats.vercel.app/api?username=TingSyuanWang&count_private=true&show_icons=true&include_all_commits=true" />
 </a>
 
 ### Most Used Languages
-<a href="https://github.com/TingSyuanWang">
+<a href="https://github.com/Star-Meow">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TingSyuanWang&layout=compact&hide=HTML,CSS,Stylus,CoffeeScript,EJS&langs_count=10" />
 </a
 ---
