@@ -36,5 +36,5 @@
 
 ### Most Used Languages
 <a href="https://github.com/Star-Meow">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Star-Meow&layout=compact&count_private=true&hide=HTML,CSS,Stylus,CoffeeScript,EJS&langs_count=10" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Star-Meow&layout=compact&theme=dark&count_private=true&hide=HTML,CSS,Stylus,CoffeeScript,EJS&langs_count=10" />
 </a>
