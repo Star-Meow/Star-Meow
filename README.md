@@ -3,7 +3,7 @@
       <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9D00F7&center=true&width=435&lines=Hey!I+am+Star-Meow.++%F0%9F%98%83;Nice+to+meet+you+traveler.+" alt="Typing SVG" />
     </a>
 </h1>
-
+<!--
 **Star-Meow/Star-Meow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+-->
 ### MY Other website
 
 <table>
@@ -39,7 +40,7 @@ Here are some ideas to get you started:
 
 ### Github Analytics
 <a href="https://github.com/Star-Meow">
-  <img src="https://github-readme-stats.vercel.app/api?username=Star-Meow&count_private=true&show_icons=true&include_all_commits=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Star-Meow&theme=vue-dark&count_private=true&show_icons=true&include_all_commits=true" />
 </a>
 
 ### Most Used Languages
