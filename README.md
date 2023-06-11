@@ -5,7 +5,7 @@
 </h1>
 
 - 🌱 I’m currently learning python,php,C++,javascript
-- 😄 Pronouns: sss37507617@gmail.com
+- 😄 Contact : sss37507617@gmail.com
 
 
 ### MY Other website
